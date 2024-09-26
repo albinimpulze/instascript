@@ -63,7 +63,7 @@ def safe_delete(file_path, max_attempts=5, delay=1):
                 return False
 
 # Streamlit interface
-st.title("Instagram Video to Text Converter")
+st.title("InstaScript")
 
 instagram_url = st.text_input("Enter Instagram video URL")
 
