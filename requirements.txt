@@ -1,3 +1,5 @@
 moviepy
 SpeechRecognition
+instaloader
+requests
 streamlit
